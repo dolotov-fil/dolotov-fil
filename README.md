@@ -1,16 +1,6 @@
 # Hi   ![176309783-0785949b-9127-417c-8b55-ab5a4333674e](https://user-images.githubusercontent.com/97385029/236337276-219b9071-0e86-4554-b623-58ddef8a7494.gif) My name is Filaret Dolotov
  
 
-## My Skill Set  
-<table><tr><td valign="top" width="100%">
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
 
 </td></tr></table>  
 
