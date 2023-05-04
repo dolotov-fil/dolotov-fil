@@ -4,7 +4,8 @@
 
 ## skills
 
-![image](https://user-images.githubusercontent.com/97385029/236344453-e4322678-ff7c-4833-858e-840d80ac5db6.png)
+![image](https://user-images.githubusercontent.com/97385029/236344453-e4322678-ff7c-4833-858e-840d80ac5db6.png) ![image](https://user-images.githubusercontent.com/97385029/236344522-1240d6b2-41f7-409a-96ab-2b5b5fc428ef.png)
+
 
 
 
