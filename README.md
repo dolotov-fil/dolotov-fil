@@ -4,6 +4,8 @@
 
 ## skills
 
+![react-original-wordmark](https://user-images.githubusercontent.com/97385029/236343823-3b36dab1-4f26-49dc-a45a-5ee21e51c285.svg)
+![css3-plain-wordmark](https://user-images.githubusercontent.com/97385029/236343849-7461e23e-c940-4044-883b-c007fbba3aab.svg)
 
 
 <!--
